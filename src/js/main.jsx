@@ -9,7 +9,7 @@ import "bootstrap"
 import '../styles/index.css'
 
 // components
-import App from './components/Home'; 
+import App from './components/SimpleCounter'; 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
